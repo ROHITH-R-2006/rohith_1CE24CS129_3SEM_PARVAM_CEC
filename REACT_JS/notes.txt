@@ -1,0 +1,39 @@
+project
+npm create vite@latest first-react-app --template react
+
+-----react
+-----npm install {node files}
+
+-----src -- {components ---- navbar}
+	 {pages ---- names of our pages}
+	 {hero ---- main motive or the the first page teme}
+
+
+
+-----link bootstrap-- go to main.jsx {install bootstrap --- npm install react-router-dev bootstrap or add the bootstrap file which is downloaded}
+
+
+
+------navbar 
+
+--change class to classname {or else it wll not come}
+
+
+
+
+------app.jsx
+
+--give router & route
+--remove files in css {to avoid getting navbar in center}
+
+
+
+
+
+------footer {rights} 
+
+
+
+
+
+------RUN {npm run dev}
